@@ -1,2 +1,2 @@
-Responsive Food Delivery Webpage.git add .
+Responsive Food Delivery Webpage.
 Created by Akarshan Kumar
